@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "QGofpBnJPp2HwZNaMzSq6IDOTB0=",
+			"path": "github.com/armon/go-radix",
+			"revision": "7fddfc383310abc091d79a27f116d30cf0424032",
+			"revisionTime": "2018-08-08T17:16:21Z"
+		},
+		{
+			"checksumSHA1": "tamKcOZfQ8E90Wg7/5saCnmFS6g=",
+			"path": "github.com/golang/example/stringutil",
+			"revision": "46695d81d1fae905a270fb7db8a4d11a334562fe",
+			"revisionTime": "2017-09-03T07:17:50Z"
+		}
+	],
+	"rootPath": "github.com/rgdd/lwm"
+}
